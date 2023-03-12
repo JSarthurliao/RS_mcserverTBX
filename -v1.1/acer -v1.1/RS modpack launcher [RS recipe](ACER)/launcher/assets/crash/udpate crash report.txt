@@ -1,0 +1,13 @@
+✖Error: 
+  There's no update items in "C:\Users\acer\Downloads"
+
+✔Tips: 
+  1.Please check your network connect
+  2.make sure "update items" are in "C:\Users\acer\Downloads"
+
+
+※Contract:
+  
+  Google Form: Coming soon
+  Email: arthurjsliao@gmail.com
+  Facebook: JS_arthurliao

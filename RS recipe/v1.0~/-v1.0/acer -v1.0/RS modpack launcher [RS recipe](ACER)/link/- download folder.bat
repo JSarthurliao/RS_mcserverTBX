@@ -1,0 +1,3 @@
+start "" ".\downloads"
+
+exit

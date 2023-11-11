@@ -1,3 +1,0 @@
-start "" ".\mods"
-
-exit
